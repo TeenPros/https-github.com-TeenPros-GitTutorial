@@ -9,6 +9,9 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    
+    var testString = "editForTesting"
 
     override func viewDidLoad() {
         super.viewDidLoad()
